@@ -1,6 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using E_commerce;
+using E_commerce.Models;
+using Microsoft.EntityFrameworkCore;
 
-namespace E_commerce;
+namespace E_commerce.Data;
+
 
 public class ApplicationDBContext : DbContext
 {
