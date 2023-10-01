@@ -1,16 +1,14 @@
-﻿using E_commerce;
-using E_commerce.Models;
+﻿using E_commerce.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace E_commerce.Data;
 
-
-public class ApplicationDBContext : DbContext
+public class ApplicationDbContext : DbContext
 {
-    public ApplicationDBContext(DbContextOptions<ApplicationDBContext>options):base(options)//Passing Options to Database
+    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+        : base(options)
     {
-        
     }
-    public DbSet<Product>Products{get; set;}
 
+    public DbSet<Product> Products { get; set; }
 }
