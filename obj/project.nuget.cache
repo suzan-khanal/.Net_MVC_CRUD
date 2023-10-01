@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5imKsYyiBkbcGxRFpyn7fcuqDuxgOkxrVFk4wfC6Hs+Wu4rxWiUTUqVWwhhClkUi8qCDA/bjhQv5KqkssADwNg==",
+  "dgSpecHash": "DK2CaEREszVL3QMEiGi070/foe/1g90i2RNN3BXELf83fhoqgrcGqNmLfd2Pq0hBRJRIVY5J/zaQF3v5Z61MMg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Lenovo\\Desktop\\MVC_CRUD\\E-commerce.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\MVC_CRUD\\E-commerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
