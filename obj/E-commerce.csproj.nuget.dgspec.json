@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\MVC_CRUD\\E-commerce.csproj": {}
+    "c:\\Users\\Lenovo\\Desktop\\MVC_CRUD\\E-commerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\MVC_CRUD\\E-commerce.csproj": {
+    "c:\\Users\\Lenovo\\Desktop\\MVC_CRUD\\E-commerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\MVC_CRUD\\E-commerce.csproj",
+        "projectUniqueName": "c:\\Users\\Lenovo\\Desktop\\MVC_CRUD\\E-commerce.csproj",
         "projectName": "E-commerce",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\MVC_CRUD\\E-commerce.csproj",
+        "projectPath": "c:\\Users\\Lenovo\\Desktop\\MVC_CRUD\\E-commerce.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\MVC_CRUD\\obj\\",
+        "outputPath": "c:\\Users\\Lenovo\\Desktop\\MVC_CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
